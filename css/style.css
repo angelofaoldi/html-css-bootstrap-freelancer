@@ -1,0 +1,14 @@
+/***** HEADER *****/
+
+header {
+    background-color: var(--main-color);
+}
+
+.container-xl {
+    color: white;
+}
+
+:root {
+    --main-color: #2c3e50
+}
+
