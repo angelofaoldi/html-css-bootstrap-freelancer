@@ -8,7 +8,12 @@ header {
     color: white;
 }
 
+#jumbo {
+    background-color: #1abc9c;
+}
+
 :root {
-    --main-color: #2c3e50
+    --main-color: #2c3e50;
+    --secondary-color: #1abc9c;
 }
 
